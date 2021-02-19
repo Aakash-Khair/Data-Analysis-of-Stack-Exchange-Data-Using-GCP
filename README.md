@@ -22,7 +22,7 @@ TFIDF = n/N * log(D/m) n is the number of times a word is in a document N is the
 
 ### References: 
 
-1.https://pig.apache.org/docs/r0.17.0/api/org/apache/pig/piggybank/storage/CSVExcelStorage.html 
-2.https://www.geeksforgeeks.org/tf-idf-model-for-page-ranking/ 
+1.https://pig.apache.org/docs/r0.17.0/api/org/apache/pig/piggybank/storage/CSVExcelStorage.html \
+2.https://www.geeksforgeeks.org/tf-idf-model-for-page-ranking/  \
 3.https://data.stackexchange.com/stackoverflow/query/new
 
